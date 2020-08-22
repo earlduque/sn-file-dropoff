@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d4665929db36d0900fbc8742399619fb" sys_domain="global" table="x_165574_file_drop_files" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_id>90665569db36d0900fbc87423996199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165574_file_drop_files" sys_domain="global" view="Default view">d4665929db36d0900fbc8742399619fb</sys_ui_section>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_id>9c665569db36d0900fbc87423996199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165574_file_drop_files" sys_domain="global" view="Default view">d4665929db36d0900fbc8742399619fb</sys_ui_section>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_id>14665569db36d0900fbc8742399619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165574_file_drop_files" sys_domain="global" view="Default view">d4665929db36d0900fbc8742399619fb</sys_ui_section>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>3</position>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_id>98665569db36d0900fbc8742399619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165574_file_drop_files" sys_domain="global" view="Default view">d4665929db36d0900fbc8742399619fb</sys_ui_section>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_id>10665569db36d0900fbc8742399619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165574_file_drop_files" sys_domain="global" view="Default view">d4665929db36d0900fbc8742399619fb</sys_ui_section>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_165574_file_drop_files</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2020-08-22 22:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4665929db36d0900fbc8742399619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165574_file_drop_files</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="File Dropoff" source="x_165574_file_drop">44ebc5a1db36d0900fbc8742399619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="File Dropoff">44ebc5a1db36d0900fbc8742399619d1</sys_scope>
+            <sys_update_name>sys_ui_section_d4665929db36d0900fbc8742399619fb</sys_update_name>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2020-08-22 22:10:34</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
